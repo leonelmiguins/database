@@ -1,0 +1,16 @@
+{
+    "mr-robot":
+    {
+        "titulo": "Mr. Robot","genero": "Drama", "ano": "2015", "audio": "Dublado", "temporadas:": 3,
+        "temporada":
+        [
+        { "total": 10, "link": "http://shd02-3.appmaxplus.xyz/api/SHD2/62560/" },
+        { "total": 12, "link": "http://shd02-3.appmaxplus.xyz/api/SHD2/62560/" },
+        { "total": 9, "link": "http://shd02-3.appmaxplus.xyz/api/SHD2/62560/" }
+        ]
+    } 
+    
+    
+
+
+}
