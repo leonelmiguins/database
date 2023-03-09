@@ -1,5 +1,5 @@
 {
-    "3":
+    "2":
     {
         "titulo": "Mr. Robot","genero": "Drama | Suspense", "ano": "2015", "audio": "Dublado", "temporadas": 3,
         "img_poster": "https://static.hitek.fr/img/actualite/2017/06/07/fb_mr-robot-1.jpg",
@@ -12,7 +12,7 @@
         ]
     },
 
-    "2":
+    "1":
     {
         "titulo": "The Last Of Us","genero": "Drama | Ficção Científica", "ano": "2023", "audio": "Dublado", "temporadas": 1,
         "img_poster": "https://i.blogs.es/349810/the-last-of-us-capitulo-4-a-que-hora-se-estrena-d/1366_2000.jpeg",
@@ -23,7 +23,7 @@
         ]
     },
 
-    "1":
+    "0":
     {
         "titulo": "Smallville","genero": "Ação | Ficção Científica", "ano": "2001", "audio": "Dublado", "temporadas": 10,
         "img_poster": "https://images7.alphacoders.com/334/334190.jpg",
