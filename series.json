@@ -1,4 +1,36 @@
 {
+    "4":
+    {
+        "titulo": "Mãe","genero": "Drama | Novela", "ano": "2016", "audio": "Dublado", "temporadas": 1,
+        "img_poster": "https://www.tvpop.com.br/wp-content/uploads/2023/02/Novela-turca-Mae.png",
+        "img_capa": "https://br.web.img3.acsta.net/r_1920_1080/pictures/23/01/11/17/39/1743277.png",
+        "temporada":
+        [
+        { "total": 30, "link": "http://fhd05.appmaxplus.xyz/token/HD8/68569/1x" }
+        ]
+    },
+
+    "3":
+    {
+        "titulo": "The Walking Dead","genero": "Terror | Suspense", "ano": "2010", "audio": "Dublado", "temporadas": 11,
+        "img_poster": "https://i0.wp.com/www.kearipan.com/wp-content/uploads/2021/08/the-walking-dead.jpg",
+        "img_capa": "https://upload.wikimedia.org/wikipedia/pt/thumb/a/a2/TheWalkingDead-P%C3%B4ster.jpg/230px-TheWalkingDead-P%C3%B4ster.jpg",
+        "temporada":
+        [
+        { "total": 6, "link": "https://shd02-3.appmaxplus.xyz/api/SHD2/4604/1x" },
+        { "total": 13, "link": "https://shd02-3.appmaxplus.xyz/api/SHD2/4604/2x" },
+        { "total": 16, "link": "https://shd02-3.appmaxplus.xyz/api/SHD2/4604/3x" },
+        { "total": 16, "link": "https://shd02-3.appmaxplus.xyz/api/SHD2/4604/4x" },
+        { "total": 16, "link": "https://shd02-3.appmaxplus.xyz/api/SHD2/4604/5x" },
+        { "total": 16, "link": "https://shd02-3.appmaxplus.xyz/api/SHD2/4604/6x" },
+        { "total": 16, "link": "https://shd02-3.appmaxplus.xyz/api/SHD2/4604/7x" },
+        { "total": 16, "link": "https://shd02-3.appmaxplus.xyz/api/SHD2/4604/8x" },
+        { "total": 16, "link": "https://shd02-3.appmaxplus.xyz/api/SHD2/4604/9x" },
+        { "total": 22, "link": "https://shd02-3.appmaxplus.xyz/api/SHD2/4604/10x" },
+        { "total": 24, "link": "https://shd02-3.appmaxplus.xyz/api/SHD2/4604/11x" }
+        ]
+    },
+
     "2":
     {
         "titulo": "Mr. Robot","genero": "Drama | Suspense", "ano": "2015", "audio": "Dublado", "temporadas": 3,
@@ -25,21 +57,21 @@
 
     "0":
     {
-        "titulo": "Smallville","genero": "Ação | Ficção Científica", "ano": "2001", "audio": "Dublado", "temporadas": 10,
+        "titulo": "Smallville","genero": "Ação | Heroi", "ano": "2001", "audio": "Dublado", "temporadas": 10,
         "img_poster": "https://images7.alphacoders.com/334/334190.jpg",
         "img_capa": "https://image.tmdb.org/t/p/w500/oVXXF5TqtHXOmJjf7xdO1upq7WE.jpg",
         "temporada":
         [
         { "total": 21, "link": "https://shd02-3.appmaxplus.xyz/api/SHD2/4604/1x" },
-        { "total": 23, "link": "https://shd02-3.appmaxplus.xyz/api/SHD2/4604/1x" },
-        { "total": 22, "link": "https://shd02-3.appmaxplus.xyz/api/SHD2/4604/1x" },
-        { "total": 22, "link": "https://shd02-3.appmaxplus.xyz/api/SHD2/4604/1x" },
-        { "total": 22, "link": "https://shd02-3.appmaxplus.xyz/api/SHD2/4604/1x" },
-        { "total": 22, "link": "https://shd02-3.appmaxplus.xyz/api/SHD2/4604/1x" },
-        { "total": 20, "link": "https://shd02-3.appmaxplus.xyz/api/SHD2/4604/1x" },
-        { "total": 22, "link": "https://shd02-3.appmaxplus.xyz/api/SHD2/4604/1x" },
-        { "total": 21, "link": "https://shd02-3.appmaxplus.xyz/api/SHD2/4604/1x" },
-        { "total": 21, "link": "https://shd02-3.appmaxplus.xyz/api/SHD2/4604/1x" }
+        { "total": 23, "link": "https://shd02-3.appmaxplus.xyz/api/SHD2/4604/2x" },
+        { "total": 22, "link": "https://shd02-3.appmaxplus.xyz/api/SHD2/4604/3x" },
+        { "total": 22, "link": "https://shd02-3.appmaxplus.xyz/api/SHD2/4604/4x" },
+        { "total": 22, "link": "https://shd02-3.appmaxplus.xyz/api/SHD2/4604/5x" },
+        { "total": 22, "link": "https://shd02-3.appmaxplus.xyz/api/SHD2/4604/6x" },
+        { "total": 20, "link": "https://shd02-3.appmaxplus.xyz/api/SHD2/4604/7x" },
+        { "total": 22, "link": "https://shd02-3.appmaxplus.xyz/api/SHD2/4604/8x" },
+        { "total": 21, "link": "https://shd02-3.appmaxplus.xyz/api/SHD2/4604/9x" },
+        { "total": 21, "link": "https://shd02-3.appmaxplus.xyz/api/SHD2/4604/10x" }
         ]
     } 
     
