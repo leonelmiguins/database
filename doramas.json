@@ -46,32 +46,24 @@
 
     "1":
     {
-        "titulo": "The Last Of Us","genero": "Drama | Ficção Científica", "ano": "2023", "audio": "Dublado", "temporadas": 1,
-        "img_poster": "https://i.blogs.es/349810/the-last-of-us-capitulo-4-a-que-hora-se-estrena-d/1366_2000.jpeg",
-        "img_capa": "https://www.europanet.com.br/upload/id_produto/107___/107200g.jpg",
+        "titulo": "Eu Não Sou Um Robô","genero": "Romance| Ficção Científica", "ano": "2017", "audio": "Legendado", "temporadas": 1,
+        "img_poster": "https://4.bp.blogspot.com/-4S60j922FxM/Wo9CZ3CsTWI/AAAAAAAASk8/RQyf4IWgAPA1-WzAelwCPBGsgCUeZIIawCLcBGAs/s1600/banner.jpg",
+        "img_capa": "https://assistironline.net/wp-content/uploads/2021/09/assistir-Im-Not-a-Robot-2017-online.jpg",
         "temporada":
         [
-        { "total": 8, "link": "http://fhd05.appmaxplus.xyz/token/HD8/100088/1x" }
+        { "total": 8, "link": "http://fhd05.appmaxplus.xyz/token/HD8/74682/1x" }
         ]
     },
 
     "0":
     {
-        "titulo": "Smallville","genero": "Ação | Heroi", "ano": "2001", "audio": "Dublado", "temporadas": 10,
-        "img_poster": "https://images7.alphacoders.com/334/334190.jpg",
-        "img_capa": "https://image.tmdb.org/t/p/w500/oVXXF5TqtHXOmJjf7xdO1upq7WE.jpg",
+        "titulo": "Desgraça ao seu Dispor","genero": "Romance | Comédia", "ano": "2021", "audio": "Legendado", "temporadas": 1,
+        "img_poster": "https://koreanny.com/wp-content/uploads/2021/05/Doom-at-Your-Service.jpeg",
+        "img_capa": "https://i.mydramalist.com/vlNOX_4f.jpg",
         "temporada":
         [
-        { "total": 21, "link": "https://shd02-3.appmaxplus.xyz/api/SHD2/4604/1x" },
-        { "total": 23, "link": "https://shd02-3.appmaxplus.xyz/api/SHD2/4604/2x" },
-        { "total": 22, "link": "https://shd02-3.appmaxplus.xyz/api/SHD2/4604/3x" },
-        { "total": 22, "link": "https://shd02-3.appmaxplus.xyz/api/SHD2/4604/4x" },
-        { "total": 22, "link": "https://shd02-3.appmaxplus.xyz/api/SHD2/4604/5x" },
-        { "total": 22, "link": "https://shd02-3.appmaxplus.xyz/api/SHD2/4604/6x" },
-        { "total": 20, "link": "https://shd02-3.appmaxplus.xyz/api/SHD2/4604/7x" },
-        { "total": 22, "link": "https://shd02-3.appmaxplus.xyz/api/SHD2/4604/8x" },
-        { "total": 21, "link": "https://shd02-3.appmaxplus.xyz/api/SHD2/4604/9x" },
-        { "total": 21, "link": "https://shd02-3.appmaxplus.xyz/api/SHD2/4604/10x" }
+        { "total": 16, "link": "http://fhd05.appmaxplus.xyz/token/HD8/116386/1x" }
+
         ]
     } 
     
