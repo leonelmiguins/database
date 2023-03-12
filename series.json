@@ -17,17 +17,17 @@
         "img_capa": "https://upload.wikimedia.org/wikipedia/pt/thumb/a/a2/TheWalkingDead-P%C3%B4ster.jpg/230px-TheWalkingDead-P%C3%B4ster.jpg",
         "temporada":
         [
-        { "total": 6, "link": "https://shd02-3.appmaxplus.xyz/api/SHD2/4604/1x" },
-        { "total": 13, "link": "https://shd02-3.appmaxplus.xyz/api/SHD2/4604/2x" },
-        { "total": 16, "link": "https://shd02-3.appmaxplus.xyz/api/SHD2/4604/3x" },
-        { "total": 16, "link": "https://shd02-3.appmaxplus.xyz/api/SHD2/4604/4x" },
-        { "total": 16, "link": "https://shd02-3.appmaxplus.xyz/api/SHD2/4604/5x" },
-        { "total": 16, "link": "https://shd02-3.appmaxplus.xyz/api/SHD2/4604/6x" },
-        { "total": 16, "link": "https://shd02-3.appmaxplus.xyz/api/SHD2/4604/7x" },
-        { "total": 16, "link": "https://shd02-3.appmaxplus.xyz/api/SHD2/4604/8x" },
-        { "total": 16, "link": "https://shd02-3.appmaxplus.xyz/api/SHD2/4604/9x" },
-        { "total": 22, "link": "https://shd02-3.appmaxplus.xyz/api/SHD2/4604/10x" },
-        { "total": 24, "link": "https://shd02-3.appmaxplus.xyz/api/SHD2/4604/11x" }
+        { "total": 6, "link": "http://shd02-3.appmaxplus.xyz/api/SHD2/1402/1x" },
+        { "total": 13, "link": "http://shd02-3.appmaxplus.xyz/api/SHD2/1402/2x" },
+        { "total": 16, "link": "http://shd02-3.appmaxplus.xyz/api/SHD2/1402/3x" },
+        { "total": 16, "link": "http://shd02-3.appmaxplus.xyz/api/SHD2/1402/4x" },
+        { "total": 16, "link": "http://shd02-3.appmaxplus.xyz/api/SHD2/1402/5x" },
+        { "total": 16, "link": "http://shd02-3.appmaxplus.xyz/api/SHD2/1402/6x" },
+        { "total": 16, "link": "http://shd02-3.appmaxplus.xyz/api/SHD2/1402/7x" },
+        { "total": 16, "link": "http://shd02-3.appmaxplus.xyz/api/SHD2/1402/8x" },
+        { "total": 16, "link": "http://shd02-3.appmaxplus.xyz/api/SHD2/1402/9x" },
+        { "total": 22, "link": "http://shd02-3.appmaxplus.xyz/api/SHD2/1402/10x" },
+        { "total": 24, "link": "http://shd02-3.appmaxplus.xyz/api/SHD2/1402/11x" }
         ]
     },
 
