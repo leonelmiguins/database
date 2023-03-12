@@ -1,7 +1,38 @@
 {
+    "5":
+    {
+        "titulo": "Jujutsu Kaisen","genero": "Fantasia | Terror", "ano": "2018", "audio": "Dublado", "temporadas": 1,
+        "img_poster": "https://i0.wp.com/asianbreak.com.br/wp-content/uploads/2022/02/Jujutsu-Kaisen-destaque.jpg?fit=1200%2C675&ssl=1",
+        "img_capa": "https://static.wikia.nocookie.net/dublagem/images/5/5e/JujutsuK_Poster1.png/revision/latest?cb=20210220124602&path-prefix=pt-br",
+        "temporada":
+        [
+        { "total": 24, "link": "https://lightspeedst.net/s5/mp4/jujutsu-kaisen-dublado/hd/"}
+        ]
+    },
+    "4":
+    {
+        "titulo": "Ijiranaide, Nagatoro-san","genero": "Romance | Comédia", "ano": "2021", "audio": "Dublado", "temporadas": 2,
+        "img_poster": "https://www.animeunited.com.br/oomtumtu/2020/10/Ijiranaide-Nagatoro-san-anime-portada.jpg",
+        "img_capa": "https://i0.wp.com/www.jbox.com.br/wp/wp-content/uploads/2022/06/nagatoro-poster.jpg?resize=450%2C636&ssl=1",
+        "temporada":
+        [
+        { "total": 12, "link": "https://lightspeedst.net/s1/mp4/ijiranaide-nagatoro-san-dublado/hd/"},
+        { "total": 5, "link": "https://lightspeedst.net/s1/mp4/ijiranaide-nagatoro-san-dublado/hd/"}
+        ]
+    },
+    "3":
+    {
+        "titulo": "Blue Lock","genero": "Esporte | Drama", "ano": "2022", "audio": "Dublado", "temporadas": 1,
+        "img_poster": "https://img.olhardigital.com.br/wp-content/uploads/2021/08/ac62694135d588f15256fe22e2fd451b1628762705_main-1024x636.jpg",
+        "img_capa": "https://p2.trrsf.com/image/fget/cf/774/0/images.terra.com/2022/11/25/blue-lock-poster-u7wvbnnwtp45.png",
+        "temporada":
+        [
+        { "total": 16, "link": "https://lightspeedst.net/s5/mp4/blue-lock-dublado/hd/"}
+        ]
+    },
     "2":
     {
-        "titulo": "Bastard!! Ankoku no Hakaishin ","genero": "Comédia | Fantasia", "ano": "2022", "audio": "Dublado", "temporadas": 1,
+        "titulo": "Bastard!! Ankoku no Hakaishin","genero": "Comédia | Fantasia", "ano": "2022", "audio": "Dublado", "temporadas": 1,
         "img_poster": "https://i.ytimg.com/vi/_Dv_7NP3vME/maxresdefault.jpg",
         "img_capa": "https://img.anime2you.de/2023/01/bastard-s2-anime.jpg",
         "temporada":
