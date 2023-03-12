@@ -1,57 +1,77 @@
 {
     "4":
     {
-        "titulo": "Parceiro Suspeito","genero": "Romance | Drama", "ano": "2017", "audio": "Legendado", "temporadas": 1,
-        "img_poster": "https://bolsanerdhome.files.wordpress.com/2020/12/lost-romance-romance-impossivel-taiwan.png",
-        "img_capa": "https://media.fstatic.com/BHE91otTeji-cp5cCuk4Pae3AfM=/322x478/smart/filters:format(webp)/media/movies/covers/2020/08/pORmVc.jpg",
+        "titulo": "Mãe","genero": "Drama | Novela", "ano": "2016", "audio": "Dublado", "temporadas": 1,
+        "img_poster": "https://www.tvpop.com.br/wp-content/uploads/2023/02/Novela-turca-Mae.png",
+        "img_capa": "https://br.web.img3.acsta.net/r_1920_1080/pictures/23/01/11/17/39/1743277.png",
         "temporada":
         [
-        { "total": 20, "link": "http://fhd05.appmaxplus.xyz/token/HD8/71349/1x" }
+        { "total": 30, "link": "http://fhd05.appmaxplus.xyz/token/HD8/68569/1x" }
         ]
     },
 
     "3":
     {
-        "titulo": "Make a Wish","genero": "Romance | Comédia", "ano": "2021", "audio": "Legendado", "temporadas": 1,
-        "img_poster": "https://pic0.iqiyipic.com/image/20210705/98/04/a_100457351_m_601_en_1080_608.jpg",
-        "img_capa": "https://i.pinimg.com/originals/ee/78/b2/ee78b2bc6255fd0d23ea6920efc0152f.jpg",
+        "titulo": "The Walking Dead","genero": "Terror | Suspense", "ano": "2010", "audio": "Dublado", "temporadas": 11,
+        "img_poster": "https://i0.wp.com/www.kearipan.com/wp-content/uploads/2021/08/the-walking-dead.jpg",
+        "img_capa": "https://upload.wikimedia.org/wikipedia/pt/thumb/a/a2/TheWalkingDead-P%C3%B4ster.jpg/230px-TheWalkingDead-P%C3%B4ster.jpg",
         "temporada":
         [
-        { "total": 24, "link": "http://fhd05.appmaxplus.xyz/token/HD8/128698/1x" }
+        { "total": 6, "link": "https://shd02-3.appmaxplus.xyz/api/SHD2/4604/1x" },
+        { "total": 13, "link": "https://shd02-3.appmaxplus.xyz/api/SHD2/4604/2x" },
+        { "total": 16, "link": "https://shd02-3.appmaxplus.xyz/api/SHD2/4604/3x" },
+        { "total": 16, "link": "https://shd02-3.appmaxplus.xyz/api/SHD2/4604/4x" },
+        { "total": 16, "link": "https://shd02-3.appmaxplus.xyz/api/SHD2/4604/5x" },
+        { "total": 16, "link": "https://shd02-3.appmaxplus.xyz/api/SHD2/4604/6x" },
+        { "total": 16, "link": "https://shd02-3.appmaxplus.xyz/api/SHD2/4604/7x" },
+        { "total": 16, "link": "https://shd02-3.appmaxplus.xyz/api/SHD2/4604/8x" },
+        { "total": 16, "link": "https://shd02-3.appmaxplus.xyz/api/SHD2/4604/9x" },
+        { "total": 22, "link": "https://shd02-3.appmaxplus.xyz/api/SHD2/4604/10x" },
+        { "total": 24, "link": "https://shd02-3.appmaxplus.xyz/api/SHD2/4604/11x" }
         ]
     },
 
     "2":
     {
-        "titulo": "Imitação","genero": "Drama | Músical", "ano": "2021", "audio": "Legendado", "temporadas": 1,
-        "img_poster": "https://asiaon.com.br/wp-content/uploads/2021/06/imi-1.jpg",
-        "img_capa": "https://revistakoreain.com.br/wp-content/uploads/2021/05/imitation-kdrama.jpg",
+        "titulo": "Mr. Robot","genero": "Drama | Suspense", "ano": "2015", "audio": "Dublado", "temporadas": 3,
+        "img_poster": "https://static.hitek.fr/img/actualite/2017/06/07/fb_mr-robot-1.jpg",
+        "img_capa": "https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/24228a61597249.5a7355e3e3333.jpg",
         "temporada":
         [
-        { "total": 12, "link": "http://fhd05.appmaxplus.xyz/token/HD8/116708/1x" }
+        { "total": 10, "link": "http://shd02-3.appmaxplus.xyz/api/SHD2/62560/1x" },
+        { "total": 12, "link": "http://shd02-3.appmaxplus.xyz/api/SHD2/62560/2x" },
+        { "total": 9, "link": "http://shd02-3.appmaxplus.xyz/api/SHD2/62560/3x" }
         ]
     },
 
     "1":
     {
-        "titulo": "Eu Não Sou Um Robô","genero": "Romance | Ficção Científica", "ano": "2017", "audio": "Legendado", "temporadas": 1,
-        "img_poster": "https://4.bp.blogspot.com/-4S60j922FxM/Wo9CZ3CsTWI/AAAAAAAASk8/RQyf4IWgAPA1-WzAelwCPBGsgCUeZIIawCLcBGAs/s1600/banner.jpg",
-        "img_capa": "https://assistironline.net/wp-content/uploads/2021/09/assistir-Im-Not-a-Robot-2017-online.jpg",
+        "titulo": "The Last Of Us","genero": "Drama | Ficção Científica", "ano": "2023", "audio": "Dublado", "temporadas": 1,
+        "img_poster": "https://i.blogs.es/349810/the-last-of-us-capitulo-4-a-que-hora-se-estrena-d/1366_2000.jpeg",
+        "img_capa": "https://www.europanet.com.br/upload/id_produto/107___/107200g.jpg",
         "temporada":
         [
-        { "total": 32, "link": "http://fhd05.appmaxplus.xyz/token/HD8/74682/1x" }
+        { "total": 8, "link": "http://fhd05.appmaxplus.xyz/token/HD8/100088/1x" }
         ]
     },
 
     "0":
     {
-        "titulo": "Desgraça ao seu Dispor","genero": "Romance | Comédia", "ano": "2021", "audio": "Legendado", "temporadas": 1,
-        "img_poster": "https://koreanny.com/wp-content/uploads/2021/05/Doom-at-Your-Service.jpeg",
-        "img_capa": "https://i.mydramalist.com/vlNOX_4f.jpg",
+        "titulo": "Smallville","genero": "Ação | Heroi", "ano": "2001", "audio": "Dublado", "temporadas": 10,
+        "img_poster": "https://images7.alphacoders.com/334/334190.jpg",
+        "img_capa": "https://image.tmdb.org/t/p/w500/oVXXF5TqtHXOmJjf7xdO1upq7WE.jpg",
         "temporada":
         [
-        { "total": 16, "link": "http://fhd05.appmaxplus.xyz/token/HD8/116386/1x"}
-
+        { "total": 21, "link": "https://shd02-3.appmaxplus.xyz/api/SHD2/4604/1x" },
+        { "total": 23, "link": "https://shd02-3.appmaxplus.xyz/api/SHD2/4604/2x" },
+        { "total": 22, "link": "https://shd02-3.appmaxplus.xyz/api/SHD2/4604/3x" },
+        { "total": 22, "link": "https://shd02-3.appmaxplus.xyz/api/SHD2/4604/4x" },
+        { "total": 22, "link": "https://shd02-3.appmaxplus.xyz/api/SHD2/4604/5x" },
+        { "total": 22, "link": "https://shd02-3.appmaxplus.xyz/api/SHD2/4604/6x" },
+        { "total": 20, "link": "https://shd02-3.appmaxplus.xyz/api/SHD2/4604/7x" },
+        { "total": 22, "link": "https://shd02-3.appmaxplus.xyz/api/SHD2/4604/8x" },
+        { "total": 21, "link": "https://shd02-3.appmaxplus.xyz/api/SHD2/4604/9x" },
+        { "total": 21, "link": "https://shd02-3.appmaxplus.xyz/api/SHD2/4604/10x" }
         ]
     } 
     
