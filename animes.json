@@ -1,4 +1,25 @@
 {
+    "7":
+    {
+        "titulo": "Shingetsutan Tsukihime","genero": "Mistério | Aventura", "ano": "2003", "audio": "Dublado", "temporadas": 1,
+        "img_poster": "http://3.bp.blogspot.com/-NGtJGmjedUA/Vmjkj8tGHGI/AAAAAAAAAKQ/PbR-Stk1nus/s1600/Sakamichi-no-Apollon.jpg",
+        "img_capa": "https://animecorner.me/wp-content/uploads/2023/01/tsukihime.png",
+        "temporada":
+        [
+        { "total": 12, "link": "https://lightspeedst.net/s1/mp4/sakamichi-no-apollon-dublado/hd/"}
+        ]
+    },
+    
+    "6":
+    {
+        "titulo": "Sakamichi no Apollon","genero": "Música | Drama", "ano": "2012", "audio": "Dublado", "temporadas": 1,
+        "img_poster": "http://3.bp.blogspot.com/-NGtJGmjedUA/Vmjkj8tGHGI/AAAAAAAAAKQ/PbR-Stk1nus/s1600/Sakamichi-no-Apollon.jpg",
+        "img_capa": "http://4.bp.blogspot.com/-4mK08Q5kz5Q/T_FuSiVXQkI/AAAAAAAAER0/VV8qwnNO3Vo/s1600/Kids+on+a+slope.jpg",
+        "temporada":
+        [
+        { "total": 12, "link": "https://lightspeedst.net/s1/mp4/sakamichi-no-apollon-dublado/hd/"}
+        ]
+    },
     "5":
     {
         "titulo": "Jujutsu Kaisen","genero": "Fantasia | Terror", "ano": "2018", "audio": "Dublado", "temporadas": 1,
