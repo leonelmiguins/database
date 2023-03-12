@@ -1,4 +1,14 @@
 {
+    "8":
+    {
+        "titulo": "Baki","genero": "Ação | Artes MArciais", "ano": "2018", "audio": "Dublado", "temporadas": 1,
+        "img_poster": "https://wallpapercave.com/wp/wp5202951.jpg",
+        "img_capa": "https://animefire.net/img/animes/baki-large.webp",
+        "temporada":
+        [
+        { "total": 25, "link": "http://shd01-3.appmaxplus.xyz/SHD1/80623/1x"}
+        ]
+    },
     "7":
     {
         "titulo": "Shingetsutan Tsukihime","genero": "Mistério | Aventura", "ano": "2003", "audio": "Dublado", "temporadas": 1,
