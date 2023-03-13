@@ -1,7 +1,21 @@
 {
+    "6":
+    {
+        "titulo": "O Incrível Mundo de Gumball","genero": "Desenho | Comédia", "ano": "2011", "audio": "Dublado", "temporadas": 5,
+        "img_poster": "https://www.portallos.com.br/wp-content/uploads/2014/05/O-Incr%C3%ADvel-Mundo-de-Gumball.jpg",
+        "img_capa": "https://static.wikia.nocookie.net/dublagem/images/3/36/O_Incr%C3%ADvel_Mundo_de_Gumball.jpg/revision/latest?cb=20220313212452&path-prefix=pt-br",
+        "temporada":
+        [
+        { "total": 36, "link": "http://sh07-2.appmaxplus.xyz/token/SHD7/64411/1x" },
+        { "total": 40, "link": "http://sh07-2.appmaxplus.xyz/token/SHD7/64411/2x" },
+        { "total": 40, "link": "http://sh07-2.appmaxplus.xyz/token/SHD7/64411/3x" },
+        { "total": 40, "link": "http://sh07-2.appmaxplus.xyz/token/SHD7/64411/4x" },
+        { "total": 40, "link": "http://sh07-2.appmaxplus.xyz/token/SHD7/64411/5x" }
+        ]
+    },
     "5":
     {
-        "titulo": "Milagres de Jesus","genero": "Cristão | Drama", "ano": "2014", "audio": "Dublado", "temporadas": 3,
+        "titulo": "Milagres de Jesus","genero": "Cristão | Drama", "ano": "2014", "audio": "Dublado", "temporadas": 2,
         "img_poster": "https://s1.dmcdn.net/v/Ty-9W1YbgXOzK5MTU/x1080",
         "img_capa": "https://br.web.img3.acsta.net/pictures/16/12/30/17/38/302578.jpg",
         "temporada":
